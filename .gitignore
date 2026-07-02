@@ -1,0 +1,10 @@
+.env
+.venv/
+chatmodels/
+embeddingmodels/
+
+str_output.py
+Template.py
+
+__pycache__/
+*.pyc
